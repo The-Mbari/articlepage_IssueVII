@@ -161,9 +161,8 @@
   /* Use a media query to add a breakpoint at 800px: */
 @media screen and (max-width: 1000px) {
 .content{
-  padding:0px;
-  justify-content: left;
-  width:100%;
+  width: 100%;
+  margin: auto;
 }
 
   .grid-item {
