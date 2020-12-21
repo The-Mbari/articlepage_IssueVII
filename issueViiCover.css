@@ -394,10 +394,14 @@
 
     .content {
       display:flex;
+      color:#efe2d6
     }
 
     hr{
       border: 2px solid #efe2d6 ;
     }
 
+    .article{
+      color:#efe2d6;
+    }
     
