@@ -12,6 +12,13 @@
     font-family: 'Montserrat', sans-serif;  
   }
 
+
+  .image1 {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+  }
   /*text*/
   h1{
     text-align: center;
